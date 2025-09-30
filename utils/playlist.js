@@ -1,8 +1,8 @@
 import getRandom from "./utils.js"
 
-const playlist = [];
-
 export default function createPlaylist(max){
+
+const playlist = [];
 
     console.log(playlist)
 
