@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MusicApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.7.
@@ -57,3 +58,9 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# Acerca del proyecto de la APP de música
+Proyecto académico perteneciente al periodo escolar SEPTIEMBRE - DICIEMBRE del 2025 en la Universidad Politécnica de Chiapas.
+
+Ejemplo de presentación de proyecto, posteriormente agregar una licencia 
+>>>>>>> a36f87137136ee30b911fb49797275dca2a4142d
